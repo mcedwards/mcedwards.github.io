@@ -1,6 +1,3 @@
----
-permalink: /index.html
----
 <div align="center">
   <img alt="Jekyll and Vue logos" src=".github/jekyll-vue.png" width="75%">
 </div>
